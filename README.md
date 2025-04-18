@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing Blinkit's delivery performance, customer segmentation, revenue, and order trends across Indian regions.
 
-![Dashboard Preview](images/Blinkit.png)
+![Dashboard Preview](images/Blinkit_image.png)
 
 ---
 
