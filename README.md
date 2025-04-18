@@ -3,7 +3,7 @@ This project presents an interactive Power BI dashboard to analyze Blinkit's del
 # Blinkit_Delivery_Analysis 🚚  
 A Power BI dashboard providing insights into delivery performance, customer segments, revenue, and order behavior across regions in India.
 
-![Dashboard Preview](https://github.com/user-attachments/assets/blinkit-dashboard-preview.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/blinkit.png)
 
 ---
 
@@ -83,7 +83,9 @@ This Power BI report offers a comprehensive analysis of Blinkit's delivery opera
 ---
 
 ## Dashboard  
-<img src="Blinkit_Dashboard_Main.png" alt="Blinkit Dashboard Overview" width="1080" height="580">
+<img src="Dashboard1.png" alt="Blinkit Dashboard Overview" width="1080" height="580">
+<img src="Dashboard 2.png" alt="Blinkit Dashboard Overview" width="1080" height="580">
+
 
 ---
 
