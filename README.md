@@ -97,7 +97,7 @@ This project presents an in-depth analysis of Blinkit's operations using Power B
 ## 📌 Dashboard Snapshots
 
 ![Dashboard 1](images/Dashboard1.png)  
-![Dashboard Preview](images/Dashboard 2.png)
+![Dashboard Preview](images/Dashboard2.png)
 
 ---
 
