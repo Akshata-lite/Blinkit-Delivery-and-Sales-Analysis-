@@ -1,60 +1,90 @@
 # Blinkit-Delivery-and-Sales-Analysis-
 This project presents an interactive Power BI dashboard to analyze Blinkit's delivery performance, customer segmentation, and revenue trends across different regions in India.
-# Adventure_Works_Analysis-
- A Power BI dashboard providing insights into revenue, profit, orders, and return rates to optimize business performance.
+# Blinkit_Delivery_Analysis 🚚  
+A Power BI dashboard providing insights into delivery performance, customer segments, revenue, and order behavior across regions in India.
 
- ![Logo](https://github.com/user-attachments/assets/ba2d6ff2-26dc-4b5f-a27a-356a86878b79)
+![Dashboard Preview](https://github.com/user-attachments/assets/blinkit-dashboard-preview.png)
+
+---
+
+## Project Overview  
+This Power BI report offers a comprehensive analysis of Blinkit's delivery operations, including on-time performance, customer feedback, segment-based revenue, and geospatial insights.
+
+---
+
+## Delivery & Order Overview
+
+### On-Time Delivery Rate  
+- **Overall on-time delivery** stands at **38.04%** (All Areas).
+- Drillthrough page shows **77.14%** for Ujjain with an average delivery time of **3.8 hours**.
+
+### Delivery Status Breakdown  
+- Majority of orders are **Significantly Delayed (69.4%)**, followed by Slightly Delayed (20.74%) and On Time (9.86%).
+
+### Hourly Order Trends  
+- Peak order activity observed around **9 AM and 6 PM**.
+
+---
+
+## Customer Segment & Revenue Analysis  
+
+### Revenue by Segment  
+- **Regular**: ₹2.89M  
+- **New**: ₹2.80M  
+- **Premium**: ₹2.73M  
+- **Inactive**: ₹2.59M  
+
+### Segment Revenue (Ujjain Example via Drillthrough)  
+- New: ₹10,375.89  
+- Premium: ₹7,983.68  
+- Regular: ₹2,228.58  
+- **Total**: ₹20,588.15  
+
+📌 **Click on a city to view detailed customer segment revenue via drillthrough.**
+
+---
+
+## Feedback & Ratings
+
+### Average Ratings by Category  
+- **Customer Service**: 3.37  
+- **App Experience**: 3.36  
+- **Delivery**: 3.33  
+- **Product Quality**: 3.32  
+- **Overall Avg Rating**: 3.34
+
+### Sentiment Distribution  
+- Positive: 34.76%  
+- Neutral: 32.84%  
+- Negative: 32.4%
+
+---
+
+## Discounts & Promotions  
+- Average discount offered across orders: **27.78%**
+
+---
+
+## Key Takeaways  
+- **Low On-Time Rate**: Major improvement needed in logistics.
+- **Strong Revenue from Regular Customers**: Indicates brand loyalty and repeat usage.
+- **Even Sentiment Split**: Customer experience is balanced, with room to enhance positive feedback.
+- **Drillthrough Functionality**: Enables area-wise deep dives for targeted insights.
+- **Hourly Patterns**: Useful for optimizing workforce and delivery slots.
+
+---
+
+## Final Analysis  
+1. **Delivery Optimization Needed**: Delayed orders dominate—logistical efficiency can enhance satisfaction.  
+2. **Segment Strategy Works**: Consistent revenue from key segments shows effective targeting.  
+3. **Feedback Utilization**: Slight rating drops in delivery and product quality point to areas of improvement.  
+4. **Drillthrough Advantage**: Enables area-specific insights to drive localized decision-making.
+
+---
+
+## Dashboard  
+<img src="Blinkit_Dashboard_Main.png" alt="Blinkit Dashboard Overview" width="1080" height="580">
+
+---
 
 
-
- ## Project Overview
- This Power BI report provides an analysis of Adventure Works' sales performance, including revenue, profit, orders, and return rates.
-
- ## Revenue & Profit Analysis
-## Revenue Trend (2020-2022)
-   Revenue fluctuated across months, peaking at around $1.95M.
-   Significant revenue dips in early 2020 and 2022.
-## Profit
-   Total profit reached $10.5M, indicating a strong margin.
-
-## Product Analysis
-Top-Selling Products (Revenue-wise)
-
-Mountain-200 Black, 46 → $1.24M revenue, 2.97% return rate.
-Mountain-200 Silver, 38 → $1.21M revenue, 2.90% return rate.
-Highest Return Rate Products
-
-Road-150 Red, 48 → 4.47% return rate.
-Road-250 Red, 58 → 3.63% return rate.
-Total Revenue from Top 10 Products: $9.8M
-
-## Orders by Category & Country
-Category-wise Orders:
-
-Bikes → 17K Orders
-Clothing → 13.9K Orders
-Accessories → 7K Orders
-Geographic Sales Distribution
-
-Sales recorded across Australia, Canada, France, Germany, UK, and the USA.
-Highest sales in North America & Europe.
-
-## Return Rate Insights
-Overall return rate is 2.17%, which is relatively low.
-Bikes category contributes the most to returns due to high sales volume.
-
-## Key Takeaways
-Strong Revenue Growth: Consistent sales across years.
-Profitable Product Mix: Bikes and clothing are the top-selling categories.
-Manage Returns: Road-150 and Road-250 models have the highest return rates, requiring quality improvement or customer support enhancements.
-Regional Focus: North America & Europe dominate sales, signaling potential market expansion opportunities.
-
-## Final Analysis
-Consistent Revenue Growth: Despite fluctuations, overall revenue and profit trends indicate steady business performance.
-1. Profitable Product Mix: The Bikes category dominates sales, followed by Clothing and Accessories.
-2. Return Rate is Under Control: At 2.17%, returns are manageable, but Road-150 and Road-250 models require attention due to higher return rates.
-3. Market Focus: Sales are strongest in North America & Europe, indicating potential for targeted marketing and expansion.
-4. Opportunities for Optimization: Improving product quality and customer experience in high-return models can further boost profitability.
-
-## DashBoard
-<img src="Dashboard.png" alt="Description" width="1080" height="580">
