@@ -9,6 +9,7 @@ A Power BI dashboard providing insights into delivery performance, customer segm
 
 ## Project Overview  
 This Power BI report offers a comprehensive analysis of Blinkit's delivery operations, including on-time performance, customer feedback, segment-based revenue, and geospatial insights.
+
 <img src="Blinkit_image.png" alt="Blinkit Dashboard Overview" width="1080" height="580">
 
 ---
