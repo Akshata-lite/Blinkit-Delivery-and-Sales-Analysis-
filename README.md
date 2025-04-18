@@ -15,7 +15,7 @@ This project presents an in-depth analysis of Blinkit's operations using Power B
 - Segment-wise revenue analysis
 - Geospatial and time-based ordering patterns
 
-<img src="images/Blinkit.png" alt="Blinkit Delivery" width="400"/>
+<img src="images/Blinkit.png" alt="Blinkit Delivery" width="300"/>
 
 ---
 
